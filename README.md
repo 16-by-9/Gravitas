@@ -20,11 +20,6 @@ The libs are already in the repo, but just don't forget to link them with my pro
 - 🌌 **Spacetime distortion grid** updated using relativistic principles.
 - 🎮 Mouse and keyboard camera navigation.
 
-## 🧪 Demo
-
-![screenshot](https://user-images.githubusercontent.com/demo/gravity.gif)
-> Simulation of a solar system-like setup with grid warping under mass influence.
-
 ## Math & Physics
 
 Newton's Law of Universal Gravitation:
